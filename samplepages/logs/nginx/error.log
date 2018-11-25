@@ -1,0 +1,1 @@
+2018/11/24 23:31:44 [error] 68#0: *1 directory index of "/app/public/" is forbidden, client: 127.0.0.1, server: , request: "GET / HTTP/1.0", host: "plusinfotech.local"
