@@ -1,0 +1,76 @@
+[13-Oct-2018 14:43:15] NOTICE: fpm is running, pid 16
+[13-Oct-2018 14:43:15] NOTICE: ready to handle connections
+[13-Oct-2018 15:49:28] NOTICE: Terminating ...
+[13-Oct-2018 15:49:28] NOTICE: exiting, bye-bye!
+[18-Oct-2018 12:47:15] NOTICE: fpm is running, pid 39
+[18-Oct-2018 12:47:15] NOTICE: ready to handle connections
+[18-Oct-2018 13:16:38] WARNING: [pool www] server reached pm.max_children setting (5), consider raising it
+[18-Oct-2018 16:21:45] WARNING: [pool www] server reached pm.max_children setting (5), consider raising it
+[18-Oct-2018 16:24:18] WARNING: [pool www] server reached pm.max_children setting (5), consider raising it
+[18-Oct-2018 16:29:53] WARNING: [pool www] server reached pm.max_children setting (5), consider raising it
+[18-Oct-2018 17:20:23] NOTICE: Terminating ...
+[18-Oct-2018 17:20:23] NOTICE: exiting, bye-bye!
+[22-Oct-2018 13:08:55] NOTICE: fpm is running, pid 36
+[22-Oct-2018 13:08:55] NOTICE: ready to handle connections
+[22-Oct-2018 13:18:06] NOTICE: Terminating ...
+[22-Oct-2018 13:18:06] NOTICE: exiting, bye-bye!
+[29-Oct-2018 11:30:48] NOTICE: fpm is running, pid 38
+[29-Oct-2018 11:30:48] NOTICE: ready to handle connections
+[29-Oct-2018 12:56:53] NOTICE: fpm is running, pid 36
+[29-Oct-2018 12:56:53] NOTICE: ready to handle connections
+[29-Oct-2018 13:32:00] NOTICE: Terminating ...
+[29-Oct-2018 13:32:00] NOTICE: exiting, bye-bye!
+[05-Nov-2018 09:51:52] NOTICE: fpm is running, pid 36
+[05-Nov-2018 09:51:52] NOTICE: ready to handle connections
+[05-Nov-2018 12:52:58] NOTICE: Terminating ...
+[05-Nov-2018 12:52:58] NOTICE: exiting, bye-bye!
+[07-Nov-2018 15:16:20] NOTICE: fpm is running, pid 37
+[07-Nov-2018 15:16:20] NOTICE: ready to handle connections
+[08-Nov-2018 16:18:21] NOTICE: fpm is running, pid 59
+[08-Nov-2018 16:18:21] NOTICE: ready to handle connections
+[08-Nov-2018 16:40:26] NOTICE: Terminating ...
+[08-Nov-2018 16:40:26] NOTICE: exiting, bye-bye!
+[09-Nov-2018 10:36:26] NOTICE: fpm is running, pid 52
+[09-Nov-2018 10:36:26] NOTICE: ready to handle connections
+[12-Nov-2018 10:21:10] NOTICE: fpm is running, pid 52
+[12-Nov-2018 10:21:10] NOTICE: ready to handle connections
+[12-Nov-2018 10:28:56] NOTICE: fpm is running, pid 53
+[12-Nov-2018 10:28:56] NOTICE: ready to handle connections
+[12-Nov-2018 12:57:43] NOTICE: Terminating ...
+[12-Nov-2018 12:57:43] NOTICE: exiting, bye-bye!
+[12-Nov-2018 16:46:03] NOTICE: fpm is running, pid 54
+[12-Nov-2018 16:46:03] NOTICE: ready to handle connections
+[12-Nov-2018 17:32:51] NOTICE: Terminating ...
+[12-Nov-2018 17:32:51] NOTICE: exiting, bye-bye!
+[13-Nov-2018 10:15:16] NOTICE: fpm is running, pid 39
+[13-Nov-2018 10:15:16] NOTICE: ready to handle connections
+[13-Nov-2018 11:05:51] NOTICE: Terminating ...
+[13-Nov-2018 11:05:51] NOTICE: exiting, bye-bye!
+[20-Nov-2018 03:46:36] NOTICE: fpm is running, pid 56
+[20-Nov-2018 03:46:36] NOTICE: ready to handle connections
+[20-Nov-2018 05:14:00] NOTICE: Terminating ...
+[20-Nov-2018 05:14:00] NOTICE: exiting, bye-bye!
+[20-Nov-2018 11:56:38] NOTICE: fpm is running, pid 57
+[20-Nov-2018 11:56:38] NOTICE: ready to handle connections
+[20-Nov-2018 14:29:00] NOTICE: Terminating ...
+[20-Nov-2018 14:29:00] NOTICE: exiting, bye-bye!
+[21-Nov-2018 09:35:50] NOTICE: fpm is running, pid 56
+[21-Nov-2018 09:35:50] NOTICE: ready to handle connections
+[21-Nov-2018 11:53:20] NOTICE: Terminating ...
+[21-Nov-2018 11:53:20] NOTICE: exiting, bye-bye!
+[21-Nov-2018 11:53:52] NOTICE: fpm is running, pid 26
+[21-Nov-2018 11:53:52] NOTICE: ready to handle connections
+[21-Nov-2018 11:55:17] NOTICE: Terminating ...
+[21-Nov-2018 11:55:17] NOTICE: exiting, bye-bye!
+[23-Nov-2018 14:50:59] NOTICE: fpm is running, pid 54
+[23-Nov-2018 14:50:59] NOTICE: ready to handle connections
+[24-Nov-2018 02:01:30] NOTICE: Terminating ...
+[24-Nov-2018 02:01:30] NOTICE: exiting, bye-bye!
+[24-Nov-2018 23:14:44] NOTICE: fpm is running, pid 24
+[24-Nov-2018 23:14:44] NOTICE: ready to handle connections
+[24-Nov-2018 23:15:34] NOTICE: Terminating ...
+[24-Nov-2018 23:15:34] NOTICE: exiting, bye-bye!
+[24-Nov-2018 23:18:28] NOTICE: fpm is running, pid 24
+[24-Nov-2018 23:18:28] NOTICE: ready to handle connections
+[24-Nov-2018 23:30:05] NOTICE: Terminating ...
+[24-Nov-2018 23:30:05] NOTICE: exiting, bye-bye!

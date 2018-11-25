@@ -140,7 +140,7 @@ INSERT INTO `wp_postmeta` VALUES
 (208,63,"_additional_settings",""),
 (209,63,"_locale","ja"),
 (210,64,"_edit_last","1"),
-(211,64,"_edit_lock","1542800713:1"),
+(211,64,"_edit_lock","1542985274:1"),
 (212,64,"_wp_page_template","default"),
 (213,68,"_email","test@gmail.com"),
 (214,68,"_name","てｓｔ"),
@@ -192,4 +192,7 @@ INSERT INTO `wp_postmeta` VALUES
 (260,77,"_additional_settings",""),
 (261,77,"_locale","ja"),
 (262,80,"_wp_trash_meta_status","publish"),
-(263,80,"_wp_trash_meta_time","1542800900");
+(263,80,"_wp_trash_meta_time","1542800900"),
+(264,83,"_edit_last","1"),
+(265,83,"_edit_lock","1542986190:1"),
+(266,83,"_wp_page_template","default");

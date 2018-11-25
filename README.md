@@ -1,1 +1,0 @@
-# plus-info-tech
