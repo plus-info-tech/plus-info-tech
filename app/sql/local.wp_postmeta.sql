@@ -7,10 +7,14 @@ INSERT INTO `wp_postmeta` VALUES
 (5,9,"_edit_last","1"),
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 (6,9,"_edit_lock","1543234404:1"),
 =======
 (6,9,"_edit_lock","1543164461:1"),
 >>>>>>> parent of 1543da9... 仮コミット
+=======
+(6,9,"_edit_lock","1539882676:1"),
+>>>>>>> parent of c293eea... さのっちさんとスタバ☆
 =======
 (6,9,"_edit_lock","1539882676:1"),
 >>>>>>> parent of c293eea... さのっちさんとスタバ☆
