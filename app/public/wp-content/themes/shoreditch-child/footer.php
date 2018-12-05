@@ -17,6 +17,19 @@
 		<div class="site-footer-wrapper">
 			<?php shoreditch_social_menu(); ?>
 
+<!-- ↓編集可ここから↓ -->
+
+			<div id="pageFoot">
+				<div class="MainLogo">
+					<figure class="resizeimage"><img class="size-full wp-image-338 aligncenter" src="http://plus-info-tech.local/wp-content/images/plusit_w840_h420.jpg" alt="" /></figure>
+				</div>
+				<div class="MainMenu">
+					© +IT All Rights Reserved.
+				</div>
+			</div>
+
+	<!-- ↑編集可ここまで↑ -->
+
 			<div class="site-info">
 				<a href="<?php echo esc_url( __( 'https://wordpress.org/', 'shoreditch' ) ); ?>"><?php printf( esc_html__( 'Proudly powered by %s', 'shoreditch' ), 'WordPress' ); ?></a>
 				<span class="sep">/</span>
